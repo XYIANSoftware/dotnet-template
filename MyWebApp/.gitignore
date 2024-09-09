@@ -1,0 +1,36 @@
+# Ignore build outputs
+bin/
+obj/
+out/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Rider project files
+.idea/
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+
+# Ignore NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Ignore application insights configuration
+ApplicationInsights.config
+
+# Ignore IIS logs
+IIS Express/*.log
+
+# Ignore WebStorm/JetBrains project files
+.idea/
+
+# Ignore publish folder
+publish/
+
+# Ignore other temporary files
+*.log
+*.vs/
