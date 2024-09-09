@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "at2CNbsEIISb50VZfntW7iRIbIHskDU5SXOTjC4bHYjuj+MWSwDwowR1ZNOBs8uZmutHyX4+cGAas6KLDVnQoQ==",
+  "dgSpecHash": "BP+rdy+Z3Es=",
   "success": true,
-  "projectFilePath": "/Users/kyle/code/dotnet-example/MyWebApp/MyWebApp.csproj",
+  "projectFilePath": "C:\\Users\\Roy\\Desktop\\projectsAtHome\\dotnet-template\\MyWebApp\\MyWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
