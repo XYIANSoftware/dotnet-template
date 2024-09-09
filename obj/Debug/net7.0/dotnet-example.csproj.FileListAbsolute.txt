@@ -1,0 +1,15 @@
+/Users/kyle/code/dotnet-example/bin/Debug/net7.0/dotnet-example
+/Users/kyle/code/dotnet-example/bin/Debug/net7.0/dotnet-example.deps.json
+/Users/kyle/code/dotnet-example/bin/Debug/net7.0/dotnet-example.runtimeconfig.json
+/Users/kyle/code/dotnet-example/bin/Debug/net7.0/dotnet-example.dll
+/Users/kyle/code/dotnet-example/bin/Debug/net7.0/dotnet-example.pdb
+/Users/kyle/code/dotnet-example/obj/Debug/net7.0/dotnet-example.csproj.AssemblyReference.cache
+/Users/kyle/code/dotnet-example/obj/Debug/net7.0/dotnet-example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyle/code/dotnet-example/obj/Debug/net7.0/dotnet-example.AssemblyInfoInputs.cache
+/Users/kyle/code/dotnet-example/obj/Debug/net7.0/dotnet-example.AssemblyInfo.cs
+/Users/kyle/code/dotnet-example/obj/Debug/net7.0/dotnet-example.csproj.CoreCompileInputs.cache
+/Users/kyle/code/dotnet-example/obj/Debug/net7.0/dotnet-example.dll
+/Users/kyle/code/dotnet-example/obj/Debug/net7.0/refint/dotnet-example.dll
+/Users/kyle/code/dotnet-example/obj/Debug/net7.0/dotnet-example.pdb
+/Users/kyle/code/dotnet-example/obj/Debug/net7.0/dotnet-example.genruntimeconfig.cache
+/Users/kyle/code/dotnet-example/obj/Debug/net7.0/ref/dotnet-example.dll
